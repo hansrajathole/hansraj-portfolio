@@ -82,7 +82,7 @@ export default function About() {
             <Button className="flex items-center gap-2">
               <Download size={16} />
              
-              <a href="https://drive.google.com/file/d/1knNqbGry7UFvn_C6CADnJlXucjhLBQ3P/view?usp=sharing" className="">
+              <a href="https://drive.google.com/file/d/1QJbp01R5cl4GRkFWE7Qt5zPA3N5pMw9v/view?usp=sharing" className="">
               Download Resume
                   </a>
             </Button>
