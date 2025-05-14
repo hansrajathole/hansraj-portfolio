@@ -27,7 +27,7 @@ const projects = [
     image: "/placeholder.svg?height=400&width=600",
     tags: ["MongoDB", "Express.js", "React", "Node.js", "Tailwind CSS"],
     github: "https://github.com/hansrajathole/Instagram.git",
-    demo: "https://instaclone.example.com",
+    demo: "https://instagram-frontend-rnox.onrender.com/",
     features: [
       "Built a full-stack Instagram clone using MERN Stack",
       "Implemented features like user authentication, post creation, liking/disliking posts, and story functionality",
