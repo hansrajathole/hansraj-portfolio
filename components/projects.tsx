@@ -24,7 +24,7 @@ const projects = [
   {
     title: "Social Media App",
     description: "Full-stack Instagram clone using MERN Stack",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "https://media-hosting.imagekit.io/d85238058f3e4230/Screenshot%202025-05-14%20215116.png?Expires=1841847719&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=QpJuMsENKM0RjaAJUfkhReO-3SQPeqpe3xUJhof6eb-ZZ4GRYrtAyQMWLN1xf~SCd7v8r72MwRtz99dBuG77hRC3UeL3bqxuiVcSaVGHFZfzC6lLrWwF~AbFLEvYUTfIszaeaPlUe~CfSbNsi~j5BHXsUJXanhOxqTnIdyPgfbwitPy5OkKnbBNt73BqYQONZokMDaLqs~VJF2UYe9T0TOYcqTJvDMFCPsyBdYo9U2IcJYlVtaLePt7moPClS8PupNQzGKodfyz4cAElYShZ4o-AOdw-s8pCLlkP~hsWNjuMrxphLcd6IfBMrlAcdTrMKv~054NdGorJHSJ86BLpUA__",
     tags: ["MongoDB", "Express.js", "React", "Node.js", "Tailwind CSS"],
     github: "https://github.com/hansrajathole/Instagram.git",
     demo: "https://instagram-frontend-rnox.onrender.com/",
