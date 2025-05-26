@@ -11,7 +11,7 @@ const projects = [
     title: "ThinkHub",
     description: "Real-Time Dev Q&A + Code Collaboration Platform",
     image: "https://ik.imagekit.io/l0qjdxgtk/portfolio-image/Screenshot%202025-05-26%20172834.png?updatedAt=1748260734612",
-    tags: ["React.js", "Node.js", "Socket.io", "MongoDB", "Gemini AI API"],
+    tags: ["React.js","Shadcn", "Node.js", "Socket.io", "MongoDB", "Gemini AI API"],
     github: "https://github.com/hansrajathole/ThinkHub.git",
     demo: "https://stackwave-frontend.onrender.com",
     features: [
@@ -25,7 +25,7 @@ const projects = [
     title: "AITripRideIn",
     description: "AI Travel Planner with Real-Time Support & Smart Itineraries",
     image: "https://ik.imagekit.io/l0qjdxgtk/portfolio-image/Screenshot%202025-05-26%20173155.png?updatedAt=1748261166012",
-    tags: ["React.js", "Node.js", "Socket.io", "MongoDB", "Gemini AI API"],
+    tags: ["React.js", "Tailwind CSS","Node.js", "Socket.io", "MongoDB", "Gemini AI API"],
     github: "https://github.com/hansrajathole/AI_Trip_RideIn.git",
     demo: "https://ai-trip-ridein-frontend.onrender.com/",
     features: [  
@@ -54,7 +54,7 @@ const projects = [
     description: "Web tool that leverages AI technology to enhance images",
     image:
       "https://ik.imagekit.io/l0qjdxgtk/portfolio-image/Screenshot%202025-04-24%20181649.png?updatedAt=1748260522506",
-    tags: ["React.js", "PicWish AI API", "Tailwind CSS", "Node.js"],
+    tags: ["React.js", "PicWish AI API", "Tailwind CSS"],
     github: "https://github.com/hansrajathole/NeuralRetouchAI.git",
     demo: "https://react-ai-image-enhancer.onrender.com/",
     features: [
