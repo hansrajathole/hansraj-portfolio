@@ -42,7 +42,7 @@ export default function Navbar() {
       <div className="container mx-auto px-4 py-4 flex items-center justify-between">
         <Link href="#home" className="text-xl font-bold tracking-tight hover:opacity-80 transition-opacity">
           <motion.span initial={{ opacity: 0, y: -10 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.5 }}>
-            Hansraj<span className="text-primary">.</span>
+            Hansraj<span className="text-primary">.Dev</span>
           </motion.span>
         </Link>
 
