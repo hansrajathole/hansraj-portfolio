@@ -8,10 +8,10 @@ import Image from "next/image"
 
 const projects = [
   {
-    title: "StackWave",
+    title: "ThinkHub",
     description: "Real-Time Dev Q&A + Code Collaboration Platform",
-    image: "https://media-hosting.imagekit.io/d1f916ce3f8d400c/Screenshot%202025-04-25%20022641.png?Expires=1840136218&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=Ji2cSfDFQqIS3azahZMDB6d-P~cdalCptdIQMcyTNbChzMYuWsmJs4VHaRFeq4XBpdNcf-fSKB8UJ6w9cCnoO~6YOcN3Y68~0g8yKL2J~C2PQpyF5S~ssuZ8CNd7ab2u3mBUfYMBv4ZEFCtlw-WAX-q-5UT7fI-tuGvArR9pC-uM7yD5hWorJzaM0cMkr7dgo6xKNGHSVRvVV7Bu7M2OTfFfhrd2EaMGXN-~cluQkyiALO58J0SdpQBLLDIfZi~K04k5j-DrH1c2sfO4keOF9e-xtG6g7uzNfPwxAKHVovSfRVq8baTpqGnqrVTe3DX2KLnyvLWb4GgfvuChqmLoAg__",
-    tags: ["React.js", "Node.js", "Socket.io", "MongoDB", "OpenAI API"],
+    image: "https://ik.imagekit.io/l0qjdxgtk/portfolio-image/Screenshot%202025-05-26%20172834.png?updatedAt=1748260734612",
+    tags: ["React.js", "Node.js", "Socket.io", "MongoDB", "Gemini AI API"],
     github: "https://github.com/hansrajathole/ThinkHub.git",
     demo: "https://stackwave-frontend.onrender.com",
     features: [
@@ -22,9 +22,23 @@ const projects = [
     ],
   },
   {
+    title: "AITripRideIn",
+    description: "AI Travel Planner with Real-Time Support & Smart Itineraries",
+    image: "https://ik.imagekit.io/l0qjdxgtk/portfolio-image/Screenshot%202025-05-26%20173155.png?updatedAt=1748261166012",
+    tags: ["React.js", "Node.js", "Socket.io", "MongoDB", "Gemini AI API"],
+    github: "https://github.com/hansrajathole/AI_Trip_RideIn.git",
+    demo: "https://ai-trip-ridein-frontend.onrender.com/",
+    features: [  
+      "AITripRideIn that creates travel itineraries based on interests, budget, and travel history.", 
+      "Integrated real-time updates for weather, traffic, and events to dynamically adjust travel plans" , 
+      "live AI chat support by Gemini for instant assistance and collaborative trip planning" , 
+      "Highlights: Microservices, Caching, Rate Limiting, Load Balancers, Horizontal Scaling"
+    ],
+  },
+  {
     title: "Social Media App",
     description: "Full-stack Instagram clone using MERN Stack",
-    image: "https://media-hosting.imagekit.io/d85238058f3e4230/Screenshot%202025-05-14%20215116.png?Expires=1841847719&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=QpJuMsENKM0RjaAJUfkhReO-3SQPeqpe3xUJhof6eb-ZZ4GRYrtAyQMWLN1xf~SCd7v8r72MwRtz99dBuG77hRC3UeL3bqxuiVcSaVGHFZfzC6lLrWwF~AbFLEvYUTfIszaeaPlUe~CfSbNsi~j5BHXsUJXanhOxqTnIdyPgfbwitPy5OkKnbBNt73BqYQONZokMDaLqs~VJF2UYe9T0TOYcqTJvDMFCPsyBdYo9U2IcJYlVtaLePt7moPClS8PupNQzGKodfyz4cAElYShZ4o-AOdw-s8pCLlkP~hsWNjuMrxphLcd6IfBMrlAcdTrMKv~054NdGorJHSJ86BLpUA__",
+    image: "https://ik.imagekit.io/l0qjdxgtk/portfolio-image/Screenshot%202025-05-14%20215116.png",
     tags: ["MongoDB", "Express.js", "React", "Node.js", "Tailwind CSS"],
     github: "https://github.com/hansrajathole/Instagram.git",
     demo: "https://instagram-frontend-rnox.onrender.com/",
@@ -41,7 +55,7 @@ const projects = [
     image:
       "https://ik.imagekit.io/l0qjdxgtk/portfolio-image/Screenshot%202025-04-24%20181649.png?updatedAt=1748260522506",
     tags: ["React.js", "PicWish AI API", "Tailwind CSS", "Node.js"],
-    github: "https://github.com/hansrajathole/react-ai-image-enhancer.git",
+    github: "https://github.com/hansrajathole/NeuralRetouchAI.git",
     demo: "https://react-ai-image-enhancer.onrender.com/",
     features: [
       "Developed a sleek and intuitive web tool that leverages AI technology to automatically enhance and transform images",
