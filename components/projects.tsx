@@ -12,7 +12,7 @@ const projects = [
     description: "Real-Time Dev Q&A + Code Collaboration Platform",
     image: "https://media-hosting.imagekit.io/d1f916ce3f8d400c/Screenshot%202025-04-25%20022641.png?Expires=1840136218&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=Ji2cSfDFQqIS3azahZMDB6d-P~cdalCptdIQMcyTNbChzMYuWsmJs4VHaRFeq4XBpdNcf-fSKB8UJ6w9cCnoO~6YOcN3Y68~0g8yKL2J~C2PQpyF5S~ssuZ8CNd7ab2u3mBUfYMBv4ZEFCtlw-WAX-q-5UT7fI-tuGvArR9pC-uM7yD5hWorJzaM0cMkr7dgo6xKNGHSVRvVV7Bu7M2OTfFfhrd2EaMGXN-~cluQkyiALO58J0SdpQBLLDIfZi~K04k5j-DrH1c2sfO4keOF9e-xtG6g7uzNfPwxAKHVovSfRVq8baTpqGnqrVTe3DX2KLnyvLWb4GgfvuChqmLoAg__",
     tags: ["React.js", "Node.js", "Socket.io", "MongoDB", "OpenAI API"],
-    github: "https://github.com/hansrajathole/StackWave.git",
+    github: "https://github.com/hansrajathole/ThinkHub.git",
     demo: "https://stackwave-frontend.onrender.com",
     features: [
       "Built StackOverflow-style Q&A with real-time code collaboration",
@@ -36,10 +36,10 @@ const projects = [
     ],
   },
   {
-    title: "AI-powered Image Enhancer",
+    title: "NeuralRetouchAI",
     description: "Web tool that leverages AI technology to enhance images",
     image:
-      "https://media-hosting.imagekit.io/f8362a21c24a4967/Screenshot 2025-04-24 181649.png?Expires=1840106926&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=bmbF8LQNRsN33iUeurWTdzZN9NVDXGbQy97Av5FnzW-mtdXP8sRgds-LuHmEEJiXeWIaQRPOqYQDfD2kbEN0tG0GQ-vi92pc4pSYgeVGj5GlgFn~zoXeB0TG5ABZt2I1y-M9Ub1fNaQHQEs~42gW-W~~XXSW2CjC-moPVCeBONFhnd9iZepK7fH8IUXOFDdJb3QHLaUBptC5~fB35Gl13j5qkWIQrBLBVVO9DenRVCeJQLEMqmS3m42lKRMAa8W1LyllVQYYyRKg1yjTCQ9siSFjaelFr8Z7puFbjSnNb-MK751R8vf~Np~GP4ONED1BSVcVg8m-rruzrRgIWhhFwA__",
+      "https://ik.imagekit.io/l0qjdxgtk/portfolio-image/Screenshot%202025-04-24%20181649.png?updatedAt=1748260522506",
     tags: ["React.js", "PicWish AI API", "Tailwind CSS", "Node.js"],
     github: "https://github.com/hansrajathole/react-ai-image-enhancer.git",
     demo: "https://react-ai-image-enhancer.onrender.com/",

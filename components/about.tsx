@@ -35,7 +35,7 @@ export default function About() {
             className="flex justify-center"
           >
             <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-primary/20 shadow-xl">
-              <Image src="https://media-hosting.imagekit.io/da0afca337564599/PhotoRoom-20230810_000800-01.jpeg.jpg?Expires=1840170513&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=qsO5pEGzocPrkNE-tjjaoP7Uok0pSq-ryKFoGr8nfrIQYds4GQS~44D9-eG3EtoX~9XQKO6h5M4fyILLxAO690CQRG1Y8fL6Cw5ts4pPfp0cRe0s2HEb5hxT6CdTbqxTUuu78~NXiAKnnoLM9OyIhZK~oHYL6EvTJ7HtW8toVUHSy6fZ9IPMZQWtbR0f6fqmSUyhlBk2LOCgiKnNoNVs4jyQFfLi6hTBJd85e121p1-U96G8wGnvwMIYaCDB~KqVrLyekuxlbNVRF9q1CU9GvoOwq6JBmt39mam0znUJf~x1HG6kLeE1KBrgMdiVYuzIGC73wWQaUqIPOoN~rOtc4g__" alt="Hansraj Athole" fill className="object-cover" />
+              <Image src="https://ik.imagekit.io/l0qjdxgtk/portfolio-image/PhotoRoom-20230810_000800-01.jpeg.jpg?updatedAt=1748260458344" alt="Hansraj Athole" fill className="object-cover" />
 
               {/* Decorative elements */}
               <motion.div
